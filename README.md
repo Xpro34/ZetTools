@@ -5,7 +5,7 @@
 </a>
 </div>
 
-# zet tools will allow you to play H0Y0Verse and zzz games with pleasure and comfort.
+# Zenless tools will allow you to play H0Y0Verse and zzz games with pleasure and comfort.
 
 Features:
 
