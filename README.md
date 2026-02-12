@@ -18,7 +18,7 @@ Features:
 - Added ability to reset settings via the HOME key.
 - Improved performance.
 
-### How to install:
+### ✅ How to install:
 1) Disable your antivirus software, otherwise it may block the files to protect against banning! (Bypass files)
 2) Extract the archive to any convenient location (PASS - zzz26)
 3) Run the start.bat file
